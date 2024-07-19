@@ -69,7 +69,7 @@ if btn:
         if(time=="Monthly"):
             monthly_data=Call_API("monthly",None)
             horoscope_data(monthly_data)
-            Monthly_Data(f"Challenging Days: {monthly_data['data']['challenging_days']}", "#8A2BE2", "32px")
+            Monthly_Data(f"Challenging Days: {monthly_data['data']['challenging_days']}", "#FF00FF", "32px")
             Monthly_Data(f"Favorable Days: {monthly_data['data']['standout_days']}", "#32CD32", "33px")
             Monthly_Data(f"Month: {monthly_data['data']['month']}", "#00BFFF", "33px")
             

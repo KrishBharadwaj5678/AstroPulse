@@ -72,8 +72,7 @@ if btn:
             Monthly_Data(f"Challenging Days: {monthly_data['data']['challenging_days']}", "#FF4500", "32px")
             Monthly_Data(f"Favorable Days: {monthly_data['data']['standout_days']}", "#32CD32", "33px")
             Monthly_Data(f"Month: {monthly_data['data']['month']}", "#00BFFF", "33px")
-
-       
+            
         elif(time=="Weekly"):
             weekly_data=Call_API("weekly",None)
             horoscope_data(weekly_data)

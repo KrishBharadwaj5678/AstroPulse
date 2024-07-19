@@ -77,11 +77,11 @@ if btn:
         elif(time=="Weekly"):
             weekly_data=Call_API("weekly",None)
             horoscope_data(weekly_data)
-            week_daily(f"Week: {weekly_data["data"]["week"]}")
+            week_daily(f"Week: {weekly_data['data']['week']}")
         
         elif(time=="Daily"):          
             daily_data=Call_API("daily",day.upper())
             horoscope_data(daily_data)
-            week_daily(f"Date: {daily_data["data"]["date"]}")
+            week_daily(f"Date: {daily_data['data']['date']}")
     except:
          st.error("Network Error 🔌")

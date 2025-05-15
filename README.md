@@ -37,8 +37,8 @@ Quick install, easy run, and clean codebase—ideal for both users and contribut
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/astrovibes.git
-cd astrovibes
+git clone https://github.com/KrishBharadwaj5678/AstroPulse.git
+cd AstroPulse
 pip install -r requirements.txt
 streamlit run app.py
 ````
@@ -46,9 +46,48 @@ streamlit run app.py
 ---
 
 
-## 🧙‍♂️ Contributing
+## 🧑‍💻 Contribution
 
-Pull requests are welcome! If you'd like to add new features, improve the UI, or add new translations, feel free to fork and collaborate.
+We welcome contributions with open arms!
 
 ---
 
+### 📌 Contribution Guide
+
+1. **🍴 Fork the Repository**
+
+2. **📥 Clone Your Fork Locally**
+
+3. **🌱 Create a New Branch**
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **🛠️ Make Your Changes**
+
+   * Add a new feature
+   * Improve UI or performance
+   * Fix typos or bugs
+
+5. **✅ Commit Your Changes**
+
+   ```bash
+   git add .
+   git commit -m "✨ Add: a brief, clear description of your changes"
+   ```
+
+6. **🚀 Push to GitHub**
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+7. **📬 Create a Pull Request**
+
+   * Go to the original repo
+   * Click **"Compare & pull request"**
+   * Fill in the description with details
+   * Submit!
+
+---

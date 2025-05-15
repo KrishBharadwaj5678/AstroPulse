@@ -4,22 +4,14 @@ Stay cosmically in tune with daily, weekly, and monthly horoscopes tailored to y
 
 ---
 
-## 🚀 Features
+### 💫 Features
 
-✨ **Real-Time Horoscopes**  
-Get fresh and accurate horoscope predictions—daily, weekly, and monthly—directly from trusted sources.
-
-🌐 **Multi-language Support**  
-Thanks to **Deep Translator**, AstroVibes can deliver horoscopes in your native language.
-
-♈ **Zodiac Customization**  
-Choose your sign and receive personalized content every time.
-
-📱 **User-Friendly Interface**  
-Built with **Streamlit** for a sleek, responsive, and interactive UI—works seamlessly across devices.
-
-🔗 **Minimal Setup**  
-Quick install, easy run, and clean codebase—ideal for both users and contributors.
+| 🌟 Feature              | 💬 Description                                                                 |
+|------------------------|---------------------------------------------------------------------------------|
+| ✨ **Real-Time Horoscopes** | Get fresh and accurate predictions—**daily**, **weekly**, and **monthly**     |
+| ♈ **Zodiac Customization** | Select your sun sign to receive **personalized horoscopes**                   |
+| 🌐 **Multi-language Support** | Powered by **Deep Translator** to deliver horoscopes in **your language** |
+| 🧘 **Mindful Living Tips** | Suggestions aligned with planetary energy for self-growth and awareness     |
 
 ---
 
@@ -30,7 +22,9 @@ Quick install, easy run, and clean codebase—ideal for both users and contribut
 | 🐍 **Python**       | The core programming language powering the app                                 |
 | 🎨 **Streamlit** | For building beautiful, interactive UIs quickly                      |
 | 🌐 **Requests**  | For fetching horoscope data from external APIs                 |
-| 🌍 **Deep Translator** | Translate horoscopes into multiple languages effortlessly |
+| 🌍 **Translation Support** | Translate content into multiple languages with **Deep Translator**              |
+| 📂 **Clean Codebase**      | Well-commented, modular Python code easy to understand and extend              |
+
 
 ---
 
@@ -62,7 +56,7 @@ streamlit run app.py
 
 ---
 
-## 🧑‍💻 Contribution
+## 🧑‍💻 Contributions
 
 We welcome contributions with open arms!
 
@@ -105,5 +99,3 @@ We welcome contributions with open arms!
    * Click **"Compare & pull request"**
    * Fill in the description with details
    * Submit!
-
----

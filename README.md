@@ -23,8 +23,6 @@ Stay cosmically in tune with daily, weekly, and monthly horoscopes tailored to y
 | 🎨 **Streamlit** | For building beautiful, interactive UIs quickly                      |
 | 🌐 **Requests**  | For fetching horoscope data from external APIs                 |
 | 🌍 **Translation Support** | Translate content into multiple languages with **Deep Translator**              |
-| 📂 **Clean Codebase**      | Well-commented, modular Python code easy to understand and extend              |
-
 
 ---
 

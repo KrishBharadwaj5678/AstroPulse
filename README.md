@@ -34,17 +34,33 @@ Quick install, easy run, and clean codebase—ideal for both users and contribut
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation Guide
+
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/AstroPulse.git
-cd AstroPulse
-pip install -r requirements.txt
-streamlit run app.py
 ````
 
----
+### 2️⃣ Navigate to the Project Directory
 
+```bash
+cd AstroPulse
+```
+
+### 3️⃣ Install the Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run the Application
+
+```bash
+streamlit run app.py
+```
+
+---
 
 ## 🧑‍💻 Contribution
 

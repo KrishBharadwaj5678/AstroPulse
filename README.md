@@ -8,10 +8,10 @@ Stay cosmically in tune with daily, weekly, and monthly horoscopes tailored to y
 
 | 🌟 Feature              | 💬 Description                                                                 |
 |------------------------|---------------------------------------------------------------------------------|
-| ✨ **Real-Time Horoscopes** | Get fresh and accurate predictions—**daily**, **weekly**, and **monthly**     |
+| ✨ **Real Time Horoscopes** | Get fresh and accurate predictions—**daily**, **weekly**, and **monthly**     |
 | ♈ **Zodiac Customization** | Select your sun sign to receive **personalized horoscopes**                   |
 | 🌐 **Multi-language Support** | Powered by **Deep Translator** to deliver horoscopes in **your language** |
-| 🧘 **Mindful Living Tips** | Suggestions aligned with planetary energy for self-growth and awareness     |
+| 🧘 **Mindful Living Tips** | **Suggestions** aligned with planetary energy for self-growth and awareness     |
 
 ---
 

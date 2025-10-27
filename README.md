@@ -62,10 +62,6 @@ To run AstroPulse locally, follow these steps:
 
 We welcome contributions with open arms!
 
----
-
-### 📌 Contribution Guide
-
 1. **🍴 Fork the Repository**
 
 2. **📥 Clone Your Fork Locally**

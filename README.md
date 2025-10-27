@@ -2,7 +2,7 @@
 
 Stay cosmically in tune with daily, weekly, and monthly horoscopes tailored to your zodiac sign. Let the celestial rhythms guide your decisions, enhance your mindfulness, and help you live with purpose. 🌟
 
-![AstroPulse]()
+![AstroPulse](https://github.com/KrishBharadwaj5678/AstroPulse/raw/main/AstroPulseDemo.png)
 
 ---
 

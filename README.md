@@ -2,6 +2,8 @@
 
 Stay cosmically in tune with daily, weekly, and monthly horoscopes tailored to your zodiac sign. Let the celestial rhythms guide your decisions, enhance your mindfulness, and help you live with purpose. 🌟
 
+![AstroPulse]()
+
 ---
 
 ### 💫 Features
@@ -28,29 +30,31 @@ Stay cosmically in tune with daily, weekly, and monthly horoscopes tailored to y
 
 ## ⚙️ Installation Guide
 
-### 1️⃣ Clone the Repository
+To run AstroPulse locally, follow these steps:
 
-```bash
-git clone https://github.com/KrishBharadwaj5678/AstroPulse.git
-````
+1. Clone the repository:
+   
+   ```bash
+   git clone https://github.com/KrishBharadwaj5678/AstroPulse.git
+   ````
 
-### 2️⃣ Navigate to the Project Directory
+2. Navigate to the project directory:
 
-```bash
-cd AstroPulse
-```
+   ```bash
+   cd AstroPulse
+   ```
 
-### 3️⃣ Install the Required Dependencies
+3. Install the Required Dependencies
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-### 4️⃣ Run the Application
+4. Run the Application
 
-```bash
-streamlit run app.py
-```
+   ```bash
+   streamlit run app.py
+   ```
 
 ---
 

@@ -1,10 +1,8 @@
 # 🔮 AstroPulse
 
-Stay cosmically in tune with daily, weekly, and monthly horoscopes tailored to your zodiac sign. Let the celestial rhythms guide your decisions, enhance your mindfulness, and help you live with purpose. 🌟
+Stay cosmically in tune with daily, weekly, and monthly horoscopes tailored to your zodiac sign. Let the celestial rhythms guide your decisions, enhance your mindfulness, and help you live with purpose. 
 
 ![AstroPulse](https://github.com/KrishBharadwaj5678/AstroPulse/raw/main/AstroPulseDemo.png)
-
----
 
 ### 💫 Features
 
@@ -58,42 +56,13 @@ To run AstroPulse locally, follow these steps:
 
 ---
 
-## 🧑‍💻 Contributions
+## Contributing 🤝
 
-We welcome contributions with open arms!
+Want to contribute? Here's how:
 
-1. **🍴 Fork the Repository**
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
 
-2. **📥 Clone Your Fork Locally**
-
-3. **🌱 Create a New Branch**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-4. **🛠️ Make Your Changes**
-
-   * Add a new feature
-   * Improve UI or performance
-   * Fix typos or bugs
-
-5. **✅ Commit Your Changes**
-
-   ```bash
-   git add .
-   git commit -m "✨ Add: a brief, clear description of your changes"
-   ```
-
-6. **🚀 Push to GitHub**
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-7. **📬 Create a Pull Request**
-
-   * Go to the original repo
-   * Click **"Compare & pull request"**
-   * Fill in the description with details
-   * Submit!
